@@ -12,3 +12,7 @@
 ### Inference
 
 ### Evaluation Metric - F1 score & Roc auc
+
+|F1 score|ROC AUC|
+|---|---|
+|0.82|0.91|
